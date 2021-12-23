@@ -56,9 +56,9 @@ There are 2 options to run and test the program.
 - Open up jupyter notebook
 - Navigate to the root project folder
 - Run the notebook
-    - ./ClassificationPipelineNotebook.ipynb 
+    - `./ClassificationPipelineNotebook.ipynb` 
 ### Regular Python program
-- run 'python3 ClassificationPipeline.py'
+- run `python3 ClassificationPipeline.py`
 ## Datasets
 
 ### UCI
