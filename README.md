@@ -1,10 +1,10 @@
 # README Machine Learning Classification
 ## Comparision of various Classification ML models
 
-### by:
-#### David Rady
+### by: David Rady
 
 The purpose of this project is to train and compare different machine learning models on different data sets. 
+An in depth analysis of the results can be found in the `Analysis.pdf`
 
 Classification Algorithms used: 
 
